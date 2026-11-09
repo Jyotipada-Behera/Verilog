@@ -1,7 +1,7 @@
 # Verilog
 ## Latest learning:
 
-Assignment 3.1 16-bit ALU & Testbench
+Lab 3.1 Assignment 3.0 16-bit ALU & Testbench
 ---
 ![16-bit ALU Synthesis](<./Lab 3.1 Assign 3.0 Design 16-bit ALU/ALU_16B.png>)
 ![16-bit ALU Simulation](<./Lab 3.1 Assign 3.0 Design 16-bit ALU/Simulation.png>)
