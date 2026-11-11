@@ -3,6 +3,7 @@
 
 Lab 3.1 Assignment 3.0 16-bit ALU & Testbench
 ---
+▶️ **[Watch 16-Bit ALU ModelSim Verification Demo on YouTube](https://www.youtube.com/watch?v=poTOcCqhMlc)**
 ![16-bit ALU Synthesis](<./Lab 3.1 Assign 3.0 Design 16-bit ALU/ALU_16B.png>)
 ![16-bit ALU Simulation](<./Lab 3.1 Assign 3.0 Design 16-bit ALU/Simulation.png>)
 ---
